@@ -1,6 +1,7 @@
 # AI-Doorbell
 This is the AI-Doorbell Readme. In this page, it'll introduce our AI-Doorbell project of the MCU Interface and Driver Design course. Please enjoy!
 - **Institution**: National Taiwan Ocean University, Electrical Engineering Dept.
+- **Course**: MCU Interface and Driver Design
 - **Instructor**: Richard Kuo
 - **Members**: 林昕瑋(Hsin-Wei Lin), 吳玟頡, 邱筠婷, 陳微凌, 莊詠瑜, 溫翔宇
 
