@@ -56,7 +56,8 @@ or
 
 [Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples)
 
-[Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)
+[Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com.cn/zh/amebapro2-amb82-mini-arduino-getting-started/)
+
 
 ### **JXF37 1920x1080 CMOS Image Sensor**
 ![](https://how2electronics.com/wp-content/uploads/2023/05/JXF37-1920x1080-full-HD-CMOS-image-sensor.jpg)
