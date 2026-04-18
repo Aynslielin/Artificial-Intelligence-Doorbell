@@ -54,7 +54,7 @@ or
 
 [Ameba Arduino](https://www.amebaiot.com/en/ameba-arduino-summary/)
 
-[Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples)
+<!--[Amebapro2 AMB82-mini Arduino Example Guides](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-peripherals-examples) -->
 
 [Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com.cn/zh/amebapro2-amb82-mini-arduino-getting-started/)
 
