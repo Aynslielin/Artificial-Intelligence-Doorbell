@@ -61,7 +61,7 @@ or
 ### **JXF37 1920x1080 CMOS Image Sensor**
 ![](https://how2electronics.com/wp-content/uploads/2023/05/JXF37-1920x1080-full-HD-CMOS-image-sensor.jpg)
 
-### **Arduino IDE**
+
 
 ---
 
